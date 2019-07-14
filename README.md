@@ -1,8 +1,6 @@
 <div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' width='250' /></div>
 
-<font size='7'>这是一份《Java编程思想》的学习笔记</font>
-
-<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+<p style='font-size:30px;'>这是一份《Java编程思想》的学习笔记</p>
 
 <p align='right'>-- 写于2019.7.14</p>
 
