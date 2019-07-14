@@ -1,4 +1,4 @@
-<div style='text-align:center;'>![](https://github.com/theanswer910725/ThinkingInJava/edit/master/resources/timg.jpg)</div>
+<div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' /></div>
 # 这是一份《Java编程思想》的学习笔记
 <p align='right'>-- 写于2019.7.14</p>
 　　以前已经拜读过这本神作了，但是学习过程中做的练习和代码都没有记录。这次想起这个问题，特意开了个仓库，把学习过程记录下来。
