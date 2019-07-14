@@ -1,6 +1,6 @@
 <div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' width='250' /></div>
 
-<font size='3' align='center'>这是一份《Java编程思想》的学习笔记</font>
+<font size=7 align='center'>这是一份《Java编程思想》的学习笔记</font>
 
 <p align='right'>-- 写于2019.7.14</p>
 
