@@ -15,6 +15,5 @@ public class TestContinue {
 					continue loop;
 				}
 			}
-	System.out.println(Math.random());
 	}
 }
