@@ -1,4 +1,4 @@
-<div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' style='width:250px;'/></div>
+<div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' width='250' /></div>
 
 # 这是一份《Java编程思想》的学习笔记
 
