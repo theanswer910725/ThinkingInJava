@@ -1,7 +1,7 @@
 <div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' width='250' /></div>
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Author](https://img.shields.io/badge/author-Lin%E3%80%82-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/theanswer910725/ThinkingInJava/blob/master/LICENSE)
+[![Author](https://img.shields.io/badge/author-Lin%E3%80%82-blue.svg)(https://github.com/theanswer910725)
 
 # 一份《Java编程思想》的学习笔记
 
