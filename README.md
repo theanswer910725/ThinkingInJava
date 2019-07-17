@@ -1,6 +1,6 @@
 <div align='center'><img src='https://github.com/theanswer910725/ThinkingInJava/blob/master/resources/timg.jpg' width='250' /></div>
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)]
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 # 一份《Java编程思想》的学习笔记
 
