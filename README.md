@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/theanswer910725/ThinkingInJava/blob/master/LICENSE)
 [![Author](https://img.shields.io/badge/author-Lin%E3%80%82-blue.svg)](https://github.com/theanswer910725)
 ![](https://img.shields.io/badge/language-Java-orange.svg)
+![](https://img.shields.io/badge/version-v1.0.2--20190717-yellow.svg)
 
 # 一份《Java编程思想》的学习笔记
 
