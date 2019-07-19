@@ -32,6 +32,7 @@ public class Mugs {
 }
 
 class Mug {
+	
 	public Mug(int marker) {
 		System.out.println("Mug(" + marker + ")");
 	}
@@ -39,4 +40,5 @@ class Mug {
 	void f(int marker) {
 		System.out.println("f(" + marker + ")");
 	}
+	
 }
