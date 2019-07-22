@@ -2,7 +2,6 @@
 
 # 一份《Java编程思想》的学习笔记
 
-<p align='right'>-- 写于2019.7.14</p>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/theanswer910725/ThinkingInJava/blob/master/LICENSE)
 [![Author](https://img.shields.io/badge/author-Lin%E3%80%82-blue.svg)](https://github.com/theanswer910725)
