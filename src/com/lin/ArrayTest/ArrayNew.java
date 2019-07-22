@@ -10,6 +10,9 @@ public class ArrayNew {
 		Random rand = new Random(47);
 		a = new int[rand.nextInt(20)];
 		System.out.println("length of a=" + a.length);
+		for (int i = 0; i < a.length; i++) {
+			a[i] = rand.nextInt(500);
+		}
 		System.out.println(Arrays.toString(a));
 	}
 }
