@@ -25,4 +25,4 @@
     + [终结处理和垃圾回收](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/finalizeTest)
     + [成员初始化](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/initialValueTest)
     + [构造器初始化](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/orderOfInitializationTest)
-    + [数组初始化](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/ArrayTest)
+    + [数组初始化](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/arrayTest)
