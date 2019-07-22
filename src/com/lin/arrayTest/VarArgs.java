@@ -1,4 +1,4 @@
-package com.lin.ArrayTest;
+package com.lin.arrayTest;
 
 /**
  * @Description 可变参数列表

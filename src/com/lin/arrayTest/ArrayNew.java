@@ -1,4 +1,4 @@
-package com.lin.ArrayTest;
+package com.lin.arrayTest;
 
 import java.util.Arrays;
 import java.util.Random;
