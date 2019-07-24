@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/theanswer910725/ThinkingInJava/blob/master/LICENSE)
 [![Author](https://img.shields.io/badge/author-Lin%E3%80%82-blue.svg)](https://github.com/theanswer910725)
 ![](https://img.shields.io/badge/language-Java-orange.svg)
-![](https://img.shields.io/badge/version-v1.0.4--20190722-yellow.svg)
+![](https://img.shields.io/badge/version-v1.0.5--20190725-yellow.svg)
 
 
 　　以前已经拜读过这本神作了，但是学习过程中做的练习和代码都没有记录。这次想起这个问题，特意开了个仓库，把学习过程记录下来。和以前学习方式不同的是，这次《Java编程思想》学习之旅配合了视频教程进行学习，单纯啃书实属有点粗糙，希望本次视频+书本的学习能带来不一样的体验。
@@ -27,3 +27,6 @@
     + [构造器初始化](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/orderOfInitializationTest)
     + [数组初始化](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/arrayTest)
     + [枚举类型](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/enumTest)
+    + [访问权限控制(包,库单元)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/permissionTest)
+    + [访问权限控制(权限修饰词)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/dessertTest)
+    + [访问权限控制(类的访问权限)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/dessertTest1)
