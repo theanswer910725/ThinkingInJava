@@ -30,5 +30,5 @@
     + [访问权限控制(包,库单元)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/permissionTest)
     + [访问权限控制(权限修饰词)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/dessertTest)
     + [访问权限控制(类的访问权限)](https://github.com/theanswer910725/ThinkingInJava/blob/master/src/com/lin/dessertTest1)
-    
+    + [复用类(组合语法和继承语法)](https://github.com/theanswer910725/ThinkingInJava/tree/master/src/com/lin/reuseTest)
  + 中级教程
