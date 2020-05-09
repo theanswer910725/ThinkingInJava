@@ -1,4 +1,4 @@
-package com.lin.reuseTest;
+package com.lin.reuseTest.d01;
 
 /**
  * @Description 洗涤剂(继承测试)

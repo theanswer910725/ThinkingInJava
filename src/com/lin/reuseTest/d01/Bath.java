@@ -1,4 +1,4 @@
-package com.lin.reuseTest;
+package com.lin.reuseTest.d01;
 
 /**
  * @Description 组合语法2

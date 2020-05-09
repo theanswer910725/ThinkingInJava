@@ -1,4 +1,4 @@
-package com.lin.reuseTest;
+package com.lin.reuseTest.d01;
 
 /**
  * @Description 喷水器(组合语法)
